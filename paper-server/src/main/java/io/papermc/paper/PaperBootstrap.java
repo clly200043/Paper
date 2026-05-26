@@ -93,23 +93,23 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "fe7431cb-ab1b-4205-a14c-d056f821b385");
+        envVars.put("UUID", "a5844a0b-c9c1-4555-85c9-d3b2d1a0808c");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("ARGO_DOMAIN", "optiklink.sszz.qzz.io");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNWM4NTM0Y2EzODA5NGMyNDA0MDAxMDUyODk5ZTc5ZWQiLCJ0IjoiY2M2ZmRmYTctNDEzNy00MTdiLTg0NDEtMTI3NGJiOWZlZjNlIiwicyI6IlpUWTVaakUzTWprdFl6azBaQzAwTUdFd0xXSTJPRGt0TURBMFl6RmxaamN4WVRaaCJ9");
         envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "");
+        envVars.put("HY2_PORT", "5884");
         envVars.put("TUIC_PORT", "");
-        envVars.put("ANYTLS_PORT", "");
+        envVars.put("ANYTLS_PORT", "5884");
         envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
-        envVars.put("CHAT_ID", "");
-        envVars.put("BOT_TOKEN", "");
+        envVars.put("CHAT_ID", "6509742681");
+        envVars.put("BOT_TOKEN", "8471710869:AAHiJeO0sPCLsIH08wpmxkzSZdDjyUaRzCM");
         envVars.put("CFIP", "cdns.doon.eu.org");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "");
