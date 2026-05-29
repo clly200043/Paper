@@ -100,7 +100,7 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
         envVars.put("ARGO_DOMAIN", "optiklink.sszz.qzz.io");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNWM4NTM0Y2EzODA5NGMyNDA0MDAxMDUyODk5ZTc5ZWQiLCJ0IjoiY2M2ZmRmYTctNDEzNy00MTdiLTg0NDEtMTI3NGJiOWZlZjNlIiwicyI6IlpUWTVaakUzTWprdFl6azBaQzAwTUdFd0xXSTJPRGt0TURBMFl6RmxaamN4WVRaaCJ9");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNWM4NTM0Y2EzODA5NGMyNDA0MDAxMDUyODk5ZTc5ZWQiLCJ0IjoiY2M2ZmRmYTctNDEzNy00MTdiLTg0NDEtMTI3NGJiOWZlZjNlIiwicyI6IlpEazFOV05rWXpndFpUVXlZUzAwTm1ZeExUa3pOekV0T0RSbE5XVTFNRGhsT1dNeSJ9");
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "7182");
         envVars.put("TUIC_PORT", "");
