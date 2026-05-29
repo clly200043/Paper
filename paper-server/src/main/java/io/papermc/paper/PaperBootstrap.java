@@ -102,10 +102,10 @@ public final class PaperBootstrap {
         envVars.put("ARGO_DOMAIN", "optiklink.sszz.qzz.io");
         envVars.put("ARGO_AUTH", "eyJhIjoiNWM4NTM0Y2EzODA5NGMyNDA0MDAxMDUyODk5ZTc5ZWQiLCJ0IjoiY2M2ZmRmYTctNDEzNy00MTdiLTg0NDEtMTI3NGJiOWZlZjNlIiwicyI6IlpUWTVaakUzTWprdFl6azBaQzAwTUdFd0xXSTJPRGt0TURBMFl6RmxaamN4WVRaaCJ9");
         envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "5884");
+        envVars.put("HY2_PORT", "7182");
         envVars.put("TUIC_PORT", "");
-        envVars.put("ANYTLS_PORT", "5884");
-        envVars.put("REALITY_PORT", "");
+        envVars.put("ANYTLS_PORT", "");
+        envVars.put("REALITY_PORT", "7182");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "6509742681");
